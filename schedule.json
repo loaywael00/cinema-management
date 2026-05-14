@@ -1,0 +1,34 @@
+{
+  "schedule": [
+    {
+      "movie": "avengers",
+      "hall_id": 2,
+      "time": "2025-12-20 17:00"
+    },
+    {
+      "movie": "Avatar 2",
+      "hall_id": 1,
+      "time": "2025-12-20 20:00"
+    },
+    {
+      "movie": "push",
+      "hall_id": 3,
+      "time": "2025-12-20 18:00"
+    },
+    {
+      "movie": "inside out 2",
+      "hall_id": 4,
+      "time": "2025-12-20 11:00"
+    },
+    {
+      "movie": "la la land",
+      "hall_id": 5,
+      "time": "2025-12-20 14:00"
+    },
+    {
+      "movie": "Avatar 2",
+      "hall_id": 1,
+      "time": "2025-12-20 20:00"
+    }
+  ]
+}

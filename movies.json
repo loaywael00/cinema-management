@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "title": "avatar 2",
+      "genre": "Sci-Fi",
+      "duration": 180,
+      "rating": 8.5,
+      "price": 200,
+      "s-tickets": 3,
+      "f-tickets": 4,
+      "id": 1,
+      "name": "Hall 1",
+      "seats": 73
+    },
+    {
+      "title": "avengers",
+      "genre": "Action",
+      "duration": 95,
+      "rating": 8.5,
+      "price": 200,
+      "s-tickets": 16,
+      "f-tickets": 10,
+      "id": 1,
+      "name": "Hall 1",
+      "seats": 54
+    },
+    {
+      "title": "push",
+      "genre": "Sci-Fi",
+      "duration": 180,
+      "rating": 8.5,
+      "price": 200,
+      "s-tickets": 3,
+      "f-tickets": 3,
+      "id": 1,
+      "name": "Hall 1",
+      "seats": 80
+    },
+    {
+      "title": "inside out 2",
+      "genre": "Animation",
+      "duration": 95,
+      "rating": 8.0,
+      "price": 100,
+      "s-tickets": 9,
+      "f-tickets": 3,
+      "id": 1,
+      "name": "Hall 1",
+      "seats": 68
+    },
+    {
+      "title": "la la land",
+      "genre": "comedy",
+      "duration": 120,
+      "rating": 8.5,
+      "price": 200,
+      "s-tickets": 8,
+      "f-tickets": 0,
+      "id": 1,
+      "name": "Hall 1",
+      "seats": 72
+    }
+  ]
+}
