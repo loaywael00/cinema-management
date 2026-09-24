@@ -3,10 +3,19 @@ import json
 # FIX: removed 'from run import *' — that caused a circular import
 #      (run.py imports this file, so this file must NOT import run.py)
 
-with open("halls.json") as file:
+import os
+import json
+
+# Base directory relative to this script file
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+halls_path = os.path.join(BASE_DIR, "halls.json")
+movies_path = os.path.join(BASE_DIR, "movies.json")
+
+with open(halls_path) as file:
     halls = json.load(file)
 
-with open("movies.json") as file:
+with open(movies_path) as file:
     movies = json.load(file)
 
 # Build movie list for display
